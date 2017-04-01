@@ -1,0 +1,13 @@
+D:\Kiven\code\OperationTickets\SQLiteTest\bin\Debug\SQLiteTest.exe
+D:\Kiven\code\OperationTickets\SQLiteTest\bin\Debug\SQLiteTest.pdb
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.exe
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.pdb
+D:\Kiven\code\OperationTickets\SQLiteTest\bin\Debug\SQLiteTest.exe.config
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.GridviewTest.resources
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.csproj.GenerateResource.Cache
+C:\Users\Kiven\Desktop\OperationTickets\SQLiteTest\bin\Debug\SQLiteTest.exe.config
+C:\Users\Kiven\Desktop\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.exe
+C:\Users\Kiven\Desktop\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.pdb
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.csprojResolveAssemblyReference.cache
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.WizardForm.resources
+D:\Kiven\code\OperationTickets\SQLiteTest\obj\x86\Debug\SQLiteTest.XtraUserControl1.resources
